@@ -1,2 +1,2 @@
 # MyPortfolio
-This is my Portfolio Website Project.
+This is my Ongoing Portfolio Website Project.
